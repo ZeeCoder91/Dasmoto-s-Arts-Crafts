@@ -15,9 +15,11 @@ h2 {
     color: white;
     font-size: 32px;
     font-weight: bold;
+    padding: 10px ;
 }
 
 h2.brush {
+    margin-top: 100px;
     background-color: springgreen;
 }
 
@@ -27,4 +29,9 @@ h2.frame {
 
 h2.paint {
     background-color: skyblue;
+}
+
+.blue_text {
+    color: blue;
+    font-weight: bold;
 }
