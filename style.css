@@ -4,6 +4,9 @@ body {
 
 header {
     background-image: url(img/pattern.webp);
-    
-    padding: 80px;
+    display: inline-block;
+    color: khaki;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 79px;
+    font-weight: bold;
 }
